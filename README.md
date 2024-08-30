@@ -61,9 +61,23 @@ Jalankan file DDoS nya :
 
     python3 FOXIE-DDOS.py
 
+# Preview
+### 1. PORT SCANNER
+![image](https://github.com/user-attachments/assets/b1758c37-b8a9-4982-8417-530439bcbff7) <br>
+### 2. HTTP Flood
+![image](https://github.com/user-attachments/assets/45ac2c61-499a-4aac-9358-f5832118317a) <br>
+### 3. SYN Flood
+![image](https://github.com/user-attachments/assets/e273de18-0771-4f21-89ab-ea1e8dd26e49) <br>
+### 4. UDP Flood
+![image](https://github.com/user-attachments/assets/03bae9d6-2453-4917-bed5-d8c8acd278d3) <br>
+
+
+
 # Usage Tutorial
 <a href="https://drive.google.com/file/d/1DVPE_P6OCKWmsvDFC5_OKjTCtbSd6RVQ/view?usp=sharing"><img src="img/Video Tittle.png"> <br>
 ### Click The Images for the tutorial video
 
 # Authors
 [@Putra Alpa](https://github.com/Putra1906)
+
+
