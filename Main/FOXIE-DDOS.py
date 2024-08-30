@@ -10,6 +10,9 @@ from HTTPflood import flood_http, http_banner
 from PortScan import port_scan
 from SYNflood import FoxieSynFloodAttack, syn_banner
 from UDPflood import udp_banner
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 
 # Fungsi untuk membersihkan layar
