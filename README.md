@@ -1,5 +1,10 @@
 # Foxie-DDOS
 <img src=img/Tittle.png> <br>
+[![release](https://img.shields.io/badge/release-v1.0-blue)]()
+[![followers](https://img.shields.io/badge/follow-7-blue)](https://github.com/Putra1906)
+[![LinkedIn](https://img.shields.io/badge/Follow_on_LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/putra-alpa-omega-bangun-18222b241/)
+![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)
+![Python 3](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
 
 Foxie DDoS is a tool designed to perform various types of DDoS attacks, such as UDP, HTTP, and SYN Flood. Additionally, this tool includes a port scanner based on Nmap. The code is written in Python.
 
@@ -12,11 +17,7 @@ Features <br>
 
 
 
-[![release](https://img.shields.io/badge/release-v1.0-blue)]()
-[![followers](https://img.shields.io/badge/follow-7-blue)](https://github.com/Putra1906)
-[![LinkedIn](https://img.shields.io/badge/Follow_on_LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/putra-alpa-omega-bangun-18222b241/)
-![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)
-![Python 3](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
+
 
 
 
