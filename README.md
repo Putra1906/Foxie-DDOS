@@ -30,7 +30,7 @@ Ikuti langkah-langkah berikut untuk menginstal Foxie DDoS:
 
 Clone repository menggunakan perintah `git clone`:
 
-    https://github.com/Putra1906/Foxie-DDOS.git
+    git clone https://github.com/Putra1906/Foxie-DDOS.git
 
 ### Go to Foxie DDoS
 
