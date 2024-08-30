@@ -58,7 +58,7 @@ Jalankan file DDoS nya :
 
 # Usage Tutorial
 <a href="https://drive.google.com/file/d/1DVPE_P6OCKWmsvDFC5_OKjTCtbSd6RVQ/view?usp=sharing"><img src="img/Video Tittle.png"> <br>
-### Click The Images for the video tutorials
+### Click The Images for the tutorial video
 
 # Authors
 [@Putra Alpa](https://github.com/Putra1906)
