@@ -12,4 +12,6 @@ Features <br>
 <img src=img/Tittle.png>
 
 [![release](https://img.shields.io/badge/release-v1.0-blue)]()
+[![followers](https://img.shields.io/badge/follow-7-blue)](https://github.com/Putra1906)
+
 
