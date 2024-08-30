@@ -10,3 +10,6 @@ Features <br>
 
 
 <img src=img/Tittle.png>
+
+[![release](https://img.shields.io/badge/release-v1.0-blue)]()
+
