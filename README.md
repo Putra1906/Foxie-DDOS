@@ -15,6 +15,9 @@ Features <br>
 [![release](https://img.shields.io/badge/release-v1.0-blue)]()
 [![followers](https://img.shields.io/badge/follow-7-blue)](https://github.com/Putra1906)
 [![LinkedIn](https://img.shields.io/badge/Follow_on_LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/putra-alpa-omega-bangun-18222b241/)
+![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)
+
+
 
 [Instagram](https://www.instagram.com/ptraalpha_/) <br>
 [MyWebsite](https://66c72be4361cdf0c6be6b1a4--portfolioputra.netlify.app/) <br>
