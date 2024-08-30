@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-blue?logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue)
 ![Python 3](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Putra1906)
 
 Foxie DDoS is a tool designed to perform various types of DDoS attacks, such as UDP, HTTP, and SYN Flood. Additionally, this tool includes a port scanner based on Nmap. The code is written in Python.
 
@@ -79,7 +80,7 @@ Jalankan file DDoS nya :
 <a href="https://drive.google.com/file/d/1DVPE_P6OCKWmsvDFC5_OKjTCtbSd6RVQ/view?usp=sharing"><img src="img/Video Tittle.png"> <br>
 ### Click The Image Above for the tutorial video
 
-# Authors
-[@Putra Alpa](https://github.com/Putra1906)
+# Release Date
+30 August 2024
 
 
