@@ -1,4 +1,0 @@
-scapy
-python-nmap
-cowsay
-lolcat
