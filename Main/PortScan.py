@@ -9,7 +9,7 @@ def port_scan():
         os.system("sudo apt-get install -y cowsay lolcat")
         # Clear the terminal screen
         os.system("clear")
-        os.system('cowsay "BREAK THE SYSTEM"| lolcat ')
+        os.system('cowsay -t "BREAK THE SYSTEM"| lolcat ')
 
         print("\n")
 
