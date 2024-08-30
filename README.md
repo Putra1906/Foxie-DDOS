@@ -77,7 +77,7 @@ Jalankan file DDoS nya :
 
 # Tutorial Video
 <a href="https://drive.google.com/file/d/1DVPE_P6OCKWmsvDFC5_OKjTCtbSd6RVQ/view?usp=sharing"><img src="img/Video Tittle.png"> <br>
-### Click The Images for the tutorial video
+### Click The Image Above for the tutorial video
 
 # Authors
 [@Putra Alpa](https://github.com/Putra1906)
