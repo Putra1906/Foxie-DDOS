@@ -84,8 +84,8 @@ Jalankan file DDoS nya :
 ![image](https://github.com/user-attachments/assets/a79b08ac-effe-4bca-bba6-21ea51e0b863) <br>
 if you have error in ubuntu operation system, solve it with nano FOXIE-DDOS.py <br>
 Then, Add Command <br>
-import sys
-import io
+import sys <br>
+import io <br>
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8') <br>
 save it, and run again
 
