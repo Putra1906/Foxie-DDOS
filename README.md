@@ -80,7 +80,20 @@ Jalankan file DDoS nya :
 <a href="https://drive.google.com/file/d/1DVPE_P6OCKWmsvDFC5_OKjTCtbSd6RVQ/view?usp=sharing"><img src="img/Video Tittle.png"> <br>
 ### Click The Image Above for the tutorial video
 
+# Error in ubuntu
+![image](https://github.com/user-attachments/assets/a79b08ac-effe-4bca-bba6-21ea51e0b863) <br>
+if you have error in ubuntu operation system, solve it with nano FOXIE-DDOS.py <br>
+Then, Add Command <br>
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8') <br>
+save it, and run again
+
+# WARNING !!!
+Please Use This Tool For The Educational Only
+
 # Release Date
-30 August 2024
+30 August 2024 <br> 
+<b>(v1.0)</b>
 
 
