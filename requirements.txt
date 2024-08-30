@@ -1,3 +1,4 @@
+nmap
 scapy
 python-nmap
 cowsay
