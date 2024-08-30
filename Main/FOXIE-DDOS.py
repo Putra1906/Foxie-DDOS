@@ -47,7 +47,7 @@ def foxie_banner():
     CYAN = '\033[0;36m'
     # Install the required package to run the program
     os.system("sudo apt-get install -y cowsay lolcat") # menginstall cowsay dan lolcat sebagai balon teks dan lolcat sebagai penampil warna teks pelangi
-    os.system('cowsay "HELLO GUYS !, Author: Putra Alpa \n Lets Break The System"| lolcat ')  
+    os.system('cowsay -t "HELLO GUYS !, Author: Putra Alpa \n Lets Break The System"| lolcat ')  
     print(f"""{CYAN}
  /$$$$$$$$        /$$   /$$ /$$ /$$$$$$$$                     /$$$$$$$  /$$$$$$$             /$$$$$$ 
 | $$_____/       | $$  / $$|__/| $$_____/                    | $$__  $$| $$__  $$           /$$__  $$
