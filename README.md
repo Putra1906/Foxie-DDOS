@@ -56,7 +56,7 @@ Masuk ke direktori proyek :
 
     cd Main/
 
-### Jalankan Foxie DDoS
+### Run The Script
 
 Jalankan file DDoS nya :
 
